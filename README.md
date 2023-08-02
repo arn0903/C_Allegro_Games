@@ -7,3 +7,4 @@ The first game is a Where is Waldo you have to find Waldo using a square box and
 The second game is inspired by Star Wars, you have to shoot the Death Star to its destruction. 
 The speed of the moving object is set randomly.
 The third game is an object shooter, you have to shoot different objects with different speeds and trajectories.
+![image](https://github.com/arn0903/C_Allegro_Games/assets/99322545/90056cc3-e6e1-4fa0-a934-991a7e4a37a1)
